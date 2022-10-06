@@ -16,4 +16,8 @@ echo 'extracts the value of the <version/> element within <project/> instead.'
 
 
 echo 'The following command runs and outputs the execution of your Java'
-
+touch H
+touch g
+touch C
+touch k
+echo "Files created"
