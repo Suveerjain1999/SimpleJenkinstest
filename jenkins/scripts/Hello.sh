@@ -1,10 +1,2 @@
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-
-echo ",vcvlpkhlmhljopljkolpan gkrhikokjokovklgkblkhtl;sktoyiogkokypoykgpoopgpk kpl"
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-echo "testing Hello wolrldpgkogkjlgpkfnjlgkhjvlnjuypohkjgopkophkglkl;glkpoffkjrwitgibgoijoijhtijgiojpojypogkjpotgkpokpokpoghfhkpomkpokjpogfkm"
-echo "HELLO SH                       HELLO SH "
+#!/usr/bin/env bash
+echo "HELLO WOLRD WOLRLDS VPLKVOPKBOPKOPVKPORKMOPKGO"
