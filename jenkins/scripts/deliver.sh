@@ -16,4 +16,4 @@ echo 'extracts the value of the <version/> element within <project/> instead.'
 
 
 echo 'The following command runs and outputs the execution of your Java'
-bash Hello.sh
+
